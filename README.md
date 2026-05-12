@@ -181,11 +181,11 @@ jupyter notebook Neural_Network_for_Portfolio_Optimization_-_Code.ipynb
 
 ```
 .
-├── Neural_Network_for_Portfolio_Optimization_-_Code.ipynb           # Full pipeline: data → features → models → evaluation
-├── Neural_Network_for_Portfolio_Optimization_-_Report.pdf           # IEEE-format research report
-├── Neural_Network_for_Portfolio_Optimization_-_Output.pdf           # Notebook output with all code, logs, and charts
-├── Neural_Network_for_Portfolio_Optimization_-_Presentation.pdf
-├── Outputs
+├── Project_Code.ipynb           # Full pipeline: data → features → models → evaluation
+├── Project_Report.pdf           # IEEE-format research report
+├── Project_Output.pdf           # Notebook output with all code, logs, and charts
+├── Project_Presentation.pdf
+├── Project_Plots_Tables
 └── README.md
 
 ```
